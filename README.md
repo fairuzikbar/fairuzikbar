@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @fairuzikbarrr
 - 👀 I’m interested in Backend and Frontend Developer
-- 🌱 I’m currently learning Javascript, PostgreSQL, NodeJS, and ExpressJS
+- 🌱 I’m currently learning Javascript, PostgreSQL, NodeJS, ExpressJS, TypeScript, and Angular
 - 📫 How to reach me { email : fairuz.ikbar.w@gmail.com }
 
 <!---
